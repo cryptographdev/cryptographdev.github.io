@@ -122,3 +122,7 @@ ul li a {
 .highlight-text {
   background-color: #FF9C78;
 }
+
+.masthead-title small {
+  color: #FF9C78;
+}
