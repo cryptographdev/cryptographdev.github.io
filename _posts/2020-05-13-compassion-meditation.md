@@ -45,6 +45,6 @@ published: true
 
 <p>May you find peace.</p>
 
-<img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://cryptograph.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns

@@ -13,7 +13,7 @@ published: true
 
 <p>In Chapter 8, “Saying Hello Again When We Have Lost Someone We Love” from the book <i>Retelling the stories of our lives: Everyday narrative therapy to draw inspiration and transform experience</i> (accessed 02 November 2019 at <a href="https://dulwichcentre.com.au/wp-content/uploads/2018/06/Saying-hullo-chapter-from-the-book-Retelling-the-Stories-of-our-Lives-by-David-Denborough-2.pdf" alt="Narrative Therapy for Grief" rel="nofollow" target="_blank">https://dulwichcentre.com.au/wp-content/uploads/2018/06/Saying-hullo-chapter-from-the-book-Retelling-the-Stories-of-our-Lives-by-David-Denborough-2.pdf</a>), David Denborough discusses an approach to grief that does not center on “moving on” or working through stages of grief:</p>
 
-<p><img class="img-border" src="https://geraldleejordan.com/public/assets/images/narrative-therapy-and-grief-counselling-quote.png" alt="Narrative Therapy and Grief Counselling Quote"></p>
+<p><img class="img-border" src="https://cryptograph.nz/public/assets/images/narrative-therapy-and-grief-counselling-quote.png" alt="Narrative Therapy and Grief Counselling Quote"></p>
 
 <p>Rather than the Western norm of adjusting to life without the loved one, there are other options for dealing with the pain of separation and loss. In some cultures, our ancestors remain with us in some way. Many Western therapists would argue that moving on is “healthy” and that a person can get “stuck” in grief if the loved one is not assigned a place in the past. The Narrative approach to grief therapy promoted by Denborough (quoting Narrative Therapy founder Michael White) looks for ways to remember the relationship in a positive way, allowing yourself to imagine the love the other person had for you. Pushing your loved one and memories of them into the “past” can mean for some a dismissal of who they were.</p>
 
@@ -21,6 +21,6 @@ published: true
 
 <p>Here’s to finding more compassionate and loving ways to progress through grief!</p>
 
-<img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://cryptograph.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns

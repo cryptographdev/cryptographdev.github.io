@@ -7,4 +7,4 @@ author: Lee Jordan
 published: true
 ---
 
-<img class="img-border" src="https://geraldleejordan.com/public/assets/images/wassily-kandinsky-293-1913.jpg" alt="Wassily Kandinsky – 293 (1913)">
+<img class="img-border" src="https://cryptograph.nz/public/assets/images/wassily-kandinsky-293-1913.jpg" alt="Wassily Kandinsky – 293 (1913)">

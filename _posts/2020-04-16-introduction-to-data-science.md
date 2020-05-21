@@ -13,4 +13,4 @@ published: true
 
 <h2>Certificate of Completion</h2>
 
-<a href="https://geraldleejordan.com/public/pdf/introduction-to-data-science-certificate-of-completion.pdf" title="Introduction to Data Science" target="_blank" rel="nofollow">https://geraldleejordan.com/public/pdf/introduction-to-data-science-certificate-of-completion.pdf</a>
+<a href="https://cryptograph.nz/public/pdf/introduction-to-data-science-certificate-of-completion.pdf" title="Introduction to Data Science" target="_blank" rel="nofollow">https://cryptograph.nz/public/pdf/introduction-to-data-science-certificate-of-completion.pdf</a>

@@ -11,10 +11,10 @@ published: true
 
 <p>I spent last week in Adelaide studying Narrative Therapy. The course was at the Dulwich Centre and the students were a global mix from places including Hong Kong, South Africa, the USA, New Zealand and Australia. It was quite an interesting and insightful experience and the closest I came to a holiday this year! I will discuss my insights as this site is developed.</p>
 
-<img class="img-border" src="https://geraldleejordan.com/public/assets/images/lee-jordan-dulwich-centre.jpg" alt="Dulwich Centre Intensive Level One Certificate">
+<img class="img-border" src="https://cryptograph.nz/public/assets/images/lee-jordan-dulwich-centre.jpg" alt="Dulwich Centre Intensive Level One Certificate">
 
 <p>Once the course was finished, I got this certificate for the week. Looking forward to what's ahead!</p>
 
-<img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://cryptograph.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns

@@ -13,7 +13,7 @@ published: true
 
 <p>So, my first night alone as he goes to his mum's! I began to imagine all of the things I could do. There is cleaning to be done, my Cannondale is a bit dusty and could use a trip around the coast, there is always website work to do . . . I then realised that what I really needed was time with my own mind.</p>
 
-<img class="img-border" src="https://geraldleejordan.com/public/assets/images/evening-with-siddhartha.jpg" alt="Evening with Siddhartha">
+<img class="img-border" src="https://cryptograph.nz/public/assets/images/evening-with-siddhartha.jpg" alt="Evening with Siddhartha">
 
 <h2>Siddhartha</h2>
 
@@ -21,12 +21,12 @@ published: true
 
 <p>He found the answer was within him and within all of us. We could minimise suffering by an attentive life, what came to be known as <i>The Eightfold Path</i>. When others asked for supernatural explanations, Siddhartha brushed away their questions. Some have argued, such as the former Buddhist monk, Stephen Batchelor, for a Secular Buddhism. Deities are not required for Buddhism. Reincarnation is not required. Actually, the historical existence of the Buddha, although rarely seriously debated, is not even required, as long as the conclusions are "true" (contrast this with Western theologies). The message is that there is suffering and there are ways to help. Some, like me, consider the Buddha to be a proto-psychologist (to give a Western context) whose words were later used to create power structures we often refer to as "religion".</p>
 
-<img class="img-border" src="https://geraldleejordan.com/public/assets/images/meditation-space.jpg" alt="Meditation Space">
+<img class="img-border" src="https://cryptograph.nz/public/assets/images/meditation-space.jpg" alt="Meditation Space">
 
 <p>So, I sat and focused on my breath last night with another seeker.</p>
 
 <p>May you find peace.</p>
 
-<img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://cryptograph.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns
