@@ -5,9 +5,9 @@ title: About
 
 <h2>Gerald Lee Jordan</h2>
 
-<p>I began counselling in the 1980s and, after many years of life experience (study, travel, parenting and work), I returned to this love by beginning a Master of Counselling and volunteer telephone counsellor training in 2009.</p>
+<p>I have been involved with cryptocurrencies since 2016 and it has been a fantastic ride! When I got involved, Bitcoin was less than $1000 (NZD) and then within ten months, had gone up to about 30K. I was hooked. I wasn't just hooked on the excitement, but on the principles of cryptocurrencies, including decentralisation and privacy. I will talk about those on this site.</p>
 
-<p>Few things bring me more joy or satisfaction than helping others and I am currently expanding my assistance into newer endeavours online.</p>
+<p>Other things? I have a Master of Business Administration and a Master of Education. I love business and I love teaching, so this site brings together those things. I also have a Master of Counselling and care about the well-being of others. I hope to also discuss the potential for cryptocurrencies to help others in their lives, including the relative lower anxieties that financial independence can bring about.</p>
 
 <img class="img-border" src="https://cryptograph.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
