@@ -9,6 +9,8 @@ title: About
 
 <p>Other things? I have a Master of Business Administration and a Master of Education. I love business and I love teaching, so this site brings together those things. I also have a Master of Counselling and care about the well-being of others. I hope to also discuss the potential for cryptocurrencies to help others in their lives, including the relative lower anxieties that financial independence can bring.</p>
 
+<p>It is important to me to also give something back to the community, so you will find some posts related to mental health and meditation. I love art, so some of that might be seen here, too.</p>
+
 <img class="img-border" src="https://cryptograph.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
 <h2>Contact</h2>
