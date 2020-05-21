@@ -7,15 +7,13 @@ title: About
 
 <p>I have been involved with cryptocurrencies since 2016 and it has been a fantastic ride! When I got involved, Bitcoin was less than $1000 (NZD) and then within ten months, had gone up to about 30K. I was hooked. I wasn't just hooked on the excitement, but on the principles of cryptocurrencies, including decentralisation and privacy. I will talk about those on this site.</p>
 
-<p>Other things? I have a Master of Business Administration and a Master of Education. I love business and I love teaching, so this site brings together those things. I also have a Master of Counselling and care about the well-being of others. I hope to also discuss the potential for cryptocurrencies to help others in their lives, including the relative lower anxieties that financial independence can bring about.</p>
+<p>Other things? I have a Master of Business Administration and a Master of Education. I love business and I love teaching, so this site brings together those things. I also have a Master of Counselling and care about the well-being of others. I hope to also discuss the potential for cryptocurrencies to help others in their lives, including the relative lower anxieties that financial independence can bring.</p>
 
 <img class="img-border" src="https://cryptograph.nz/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
 <h2>Contact</h2>
 
-My email follows as an image (to keep email harvesting bots at bay). Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).
-
-<p><img class="img-border" src="https://cryptograph.nz/public/assets/images/gerald-lee-jordan-email.png" alt="Gerald Lee Jordan"></p>
+My email is gerald -(at)- cryptograph.co.nz. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).
 
 <h2>Date and Time</h2>
 
