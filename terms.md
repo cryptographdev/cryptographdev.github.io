@@ -3,8 +3,7 @@ layout: page
 title: Terms
 ---
 
-<p><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" style="border:none; padding:20px"></div></p>
+<p><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="NZD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="NZD"></div></p>
 
 <h2>Disclaimer</h2>
 
