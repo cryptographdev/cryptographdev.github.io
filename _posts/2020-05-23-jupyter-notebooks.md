@@ -25,7 +25,7 @@ published: true
 
 </blockquote>
 
-<p>These notebooks include text - the normally formatted stuff, like what you are reading now. They also contain code that can be run from within the notebook (not within the images uploaded to this site though, obviously), and they often contain graphics/charts generated from the code, as seen in the sample screenshot below.</p>
+<p>These notebooks include text - the normally formatted stuff, like what you are reading now. They also contain code that can be run from within the notebook (not within the images uploaded to this site though, obviously), and they often contain graphics (data visualisations) generated from the code, as seen in the sample screenshot below.</p>
 
 <p><img class="img-border" src="https://cryptograph.co.nz/public/assets/images/jupyter-notebook-google-colaboratory.png" alt="Jupyter Notebook Example at Google Colaboratory"></p>
 
