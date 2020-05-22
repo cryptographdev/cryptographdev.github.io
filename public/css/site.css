@@ -126,3 +126,7 @@ ul li a {
 .masthead-title small {
   color: #FFB2B2;
 }
+
+.coinmarketcap-currency-widget element {
+  border: none !important; 
+}
