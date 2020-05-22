@@ -127,6 +127,10 @@ ul li a {
   color: #FFB2B2;
 }
 
+.coinmarketcap-currency-widget {
+  padding: 10px !important; 
+}
+
 .coinmarketcap-currency-widget div {
   padding: 10px !important; 
 }
