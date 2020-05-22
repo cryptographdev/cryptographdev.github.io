@@ -4,7 +4,7 @@ title: Terms
 ---
 
 <p><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" style="border:none; padding:10px"></div></p>
+<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" style="border:none; padding:20px"></div></p>
 
 <h2>Disclaimer</h2>
 
