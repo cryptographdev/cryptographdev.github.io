@@ -6,7 +6,7 @@ title: Blog
 <p>The project posts on this site are listed below in sequence from newer to older.</p>
 
 <p><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD"></div></p>
+<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" style="border:none; padding:20px"></div></p>
 
 {% assign postsByYear = (site.categories.['blog'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
