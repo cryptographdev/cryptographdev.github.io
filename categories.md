@@ -30,6 +30,17 @@ title: Categories
 </ul>	
 {% endfor %}
 
+{% assign postsByYear = (site.categories.['datasci'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2>Data Science ({{ year.name }})</h2>
+<ul>
+{% for post in year.items %}
+{% assign postYear = post.date | date:"%Y" %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>		
+{% endfor %}
+</ul>	
+{% endfor %}
+
 {% assign postsByYear = (site.categories.['māori'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2>Māori ({{ year.name }})</h2>
