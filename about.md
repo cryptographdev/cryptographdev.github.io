@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD"></div>
+<p><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD"></div></p>
 
 <p>I have been involved with cryptocurrencies since 2016 and it has been a fantastic ride! When I got involved, Bitcoin was less than $1000 (NZD) and then within ten months, had gone up to about 30K. I was hooked. I wasn't just hooked on the excitement, but on the principles of cryptocurrencies, including decentralisation and privacy. I will talk about those on this site.</p>
 
