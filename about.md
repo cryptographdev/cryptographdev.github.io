@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="USD"></div>
+
 <p>I have been involved with cryptocurrencies since 2016 and it has been a fantastic ride! When I got involved, Bitcoin was less than $1000 (NZD) and then within ten months, had gone up to about 30K. I was hooked. I wasn't just hooked on the excitement, but on the principles of cryptocurrencies, including decentralisation and privacy. I will talk about those on this site.</p>
 
 <p>Other things? I have a Master of Business Administration and a Master of Education. I love business and I love teaching, so this site brings together those things. I also have a Master of Counselling and care about the well-being of others. I hope to also discuss the potential for cryptocurrencies to help others in their lives, including the relative lower anxieties that financial independence can bring.</p>
