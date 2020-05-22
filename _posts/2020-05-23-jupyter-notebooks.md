@@ -29,6 +29,6 @@ published: true
 
 <p><img class="img-border" src="https://cryptograph.co.nz/public/assets/images/jupyter-notebook-google-colaboratory.png" alt="Jupyter Notebook Example at Google Colaboratory"></p>
 
-<p>So, when I reference a Jupyter Notebook in an article, you might see an image, as the one immediately above, you might see a link to Google Colaboratory (for those who have a Google account and who want to go through the notebook themselves) and/or you might see the notebook code linked to on my Github account.<p>
+<p>So, when I reference a Jupyter Notebook in an article, you might see an image, as the one immediately above, you might see a link to <a href="https://colab.research.google.com/" rel="nofollow" target="_blank" title="Google Colab">Google Colaboratory</a> (for those who have a Google account and who want to go through the notebook themselves) and/or you might see the notebook code linked to on my Github account.<p>
 
 <p>Which of these I use will depend on what I am trying to accomplish, but I have created this post so that you will know about bit about Jupyter Notebooks when you see them on this site.</p>
