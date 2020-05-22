@@ -13,6 +13,6 @@ published: true
 
 <h2>Data Science Certificate</h2>
 
-<p><img class="img-border" src="https://cryptograph.nz/public/assets/images/Gerald-Lee-Jordan-HarvardX-PH125.png" alt="HarvardX Data Science"></p>
+<p><img class="img-border" src="https://cryptograph.co.nz/public/assets/images/Gerald-Lee-Jordan-HarvardX-PH125.png" alt="HarvardX Data Science"></p>
 
 <p><a href="https://courses.edx.org/certificates/591835b57e604f9db2141a415286c394" alt="HarvardX Data Science" target="_blank" rel="nofollow">https://courses.edx.org/certificates/591835b57e604f9db2141a415286c394</a></p>

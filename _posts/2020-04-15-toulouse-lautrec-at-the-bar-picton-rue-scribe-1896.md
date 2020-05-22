@@ -7,4 +7,4 @@ author: Lee Jordan
 published: true
 ---
 
-<img class="img-border" src="https://cryptograph.nz/public/assets/images/toulouse-lautrec-at-the-bar-picton-rue-scribe-1896.jpg" alt="Toulouse-Lautrec – At the Bar Picton, Rue Scribe (1896)">
+<img class="img-border" src="https://cryptograph.co.nz/public/assets/images/toulouse-lautrec-at-the-bar-picton-rue-scribe-1896.jpg" alt="Toulouse-Lautrec – At the Bar Picton, Rue Scribe (1896)">
