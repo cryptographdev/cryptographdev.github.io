@@ -128,5 +128,5 @@ ul li a {
 }
 
 .coinmarketcap-currency-widget div {
-  border: none !important; 
+  padding: 10px !important; 
 }
