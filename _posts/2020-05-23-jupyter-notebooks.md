@@ -9,9 +9,9 @@ published: true
 
 <h2>Data Science Examples</h2>
 
-<p>I will be using a few programs to illustrate data science principles on this site. Two of the major programs for data science calculations and data visualisations at the moment are RStudio (based on the R Programming Language) and Jupyter Notebooks (based on the Python Programming Language). Jupyter Notebooks (as I will use them here) are based on Python.<p> 
+<p>I will be using a few programs to illustrate data science principles on this site. Two of the major programs for data science calculations and data visualisations at the moment are <a href="https://rstudio.com/" rel="nofollow" target="_blank" title="RStudio">RStudio</a> (based on the <a href="https://www.r-project.org/" rel="nofollow" target="_blank" title="R Programming Language">R Programming Language</a>) and <a href="https://jupyter.org/" rel="nofollow" target="_blank" title="Jupyter Notebooks">Jupyter Notebooks</a> (based on the <a href="https://www.python.org/" rel="nofollow" target="_blank" title="Python Programming Language">Python Programming Language</a>). Jupyter Notebooks (as I will use them here) utilise Python.<p> 
 
-<p>If I am discussing something related to data science or cryptocurrencies and I want to just show a graph, I might paste it into an article on this site as a image. If I want to do something more complex, such as include calculations and other code, I will most often include a Jupyter Notebook link.</p>
+<p>If I am discussing something related to data science or cryptocurrencies and I want to just show a graph, I might paste it into an article on this site as an image. If I want to do something more complex, such as include calculations and other code, I will most often include a Jupyter Notebook link, so you can go through the code yourself (if you so desire).</p>
 
 <h2>Jupyter Notebooks</h2>
 
