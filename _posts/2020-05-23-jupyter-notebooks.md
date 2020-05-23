@@ -9,9 +9,9 @@ published: true
 
 <h2>Data Science Examples</h2>
 
-<p>A few programs to illustrate data science principles will be used on this site. Two of the major programs for data science calculations and data visualisations at the moment are <a href="https://rstudio.com/" rel="nofollow" target="_blank" title="RStudio">RStudio</a> (based on the <a href="https://www.r-project.org/" rel="nofollow" target="_blank" title="R Programming Language">R Programming Language</a>) and <a href="https://jupyter.org/" rel="nofollow" target="_blank" title="Jupyter Notebooks">Jupyter Notebooks</a> (based on the <a href="https://www.python.org/" rel="nofollow" target="_blank" title="Python Programming Language">Python Programming Language</a>). Jupyter Notebooks (as used here) utilise Python.<p> 
+<p>A few programs to illustrate data science principles will be used on this site. Two of the major programs for data science calculations and data visualisations at the moment are <a href="https://rstudio.com/" rel="nofollow" target="_blank" title="RStudio">RStudio</a> (based on the <a href="https://www.r-project.org/" rel="nofollow" target="_blank" title="R Programming Language">R Programming Language</a>) and <a href="https://jupyter.org/" rel="nofollow" target="_blank" title="Jupyter Notebooks">Jupyter Notebooks</a> (based on the <a href="https://www.python.org/" rel="nofollow" target="_blank" title="Python Programming Language">Python Programming Language</a>). Jupyter Notebooks as used here utilise Python.<p> 
 
-<p>If a graph is all that is required in an article, an image of the graph might be significant. If something complex is being discussed that you might want to work through yourself (or confirm the results), a link to a Jupyter Notebook or the Python code on the Cryptograph Ltd Github site might be provided..</p>
+<p>If a graph is all that is required in an article, an image of the graph might be significant. If something complex is being discussed that you might want to work through yourself (or confirm the results), a link to a Jupyter Notebook or the Python code on the Cryptograph Ltd Github site might be provided.</p>
 
 <h2>Jupyter Notebooks</h2>
 
