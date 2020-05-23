@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evening Walks With My Son
+title: Evening walks with my son
 date: 2020-04-22 00:48:00 +1200
 categories: [blog, walks]
 author: Lee Jordan

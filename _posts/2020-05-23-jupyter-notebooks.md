@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jupyter Notebooks
+title: Jupyter notebooks
 date: 2020-05-23 10:24:00 +1200
 categories: [blog, datasci]
 author: Lee Jordan

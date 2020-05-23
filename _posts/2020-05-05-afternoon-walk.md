@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Afternoon Walk
+title: Afternoon walk
 date: 2020-05-05 10:52:00 +1200
 categories: [blog, walks]
 author: Lee Jordan

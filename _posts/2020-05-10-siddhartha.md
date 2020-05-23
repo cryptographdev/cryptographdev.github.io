@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evening With Siddhartha
+title: Evening with Siddhartha
 date: 2020-05-10 14:43:00 +1200
 categories: [blog, meditation]
 author: Lee Jordan

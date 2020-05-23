@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Greatest Value of a Picture
+title: The greatest value of a picture
 date: 2020-05-23 12:24:00 +1200
 categories: [blog, quotes]
 author: Lee Jordan

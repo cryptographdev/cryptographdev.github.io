@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guided Meditation
+title: Guided meditation
 date: 2020-05-15 23:34:00 +1200
 categories: [blog, meditation]
 author: Lee Jordan

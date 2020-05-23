@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meditation During Self-Isolation In Aotearoa New Zealand
+title: Meditation during self-isolation in Aotearoa New Zealand
 date: 2020-04-07 00:00:00 +1200
 categories: [blog,meditation]
 author: Lee Jordan

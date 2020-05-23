@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Visualisation With ggplot2 Cheat Sheet
+title: Data visualisation with ggplot2 cheat sheet
 date: 2020-05-23 13:54:00 +1200
 categories: [blog, datasci]
 author: Lee Jordan

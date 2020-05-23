@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compassion Meditation
+title: Compassion meditation
 date: 2020-05-13 11:00:00 +1200
 categories: [blog, meditation]
 author: Lee Jordan
