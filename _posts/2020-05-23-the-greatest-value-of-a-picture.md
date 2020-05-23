@@ -9,4 +9,6 @@ published: true
 
 <h2>Data Visualisation</h2>
 
-<p>“The greatest value of a picture is when it forces us to notice what we never expected to see.” John W. Tukey<p> 
+<p><i>The greatest value of a picture is when it forces us to notice what we never expected to see.</i></p>
+
+<p>John W. Tukey<p> 
