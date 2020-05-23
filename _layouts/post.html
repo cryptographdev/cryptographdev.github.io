@@ -13,7 +13,8 @@ layout: default
     <i class="material-icons-outlined md-24">schedule</i>&nbsp;&nbsp;{{ page.date | date_to_rfc822 }}<br>
     <i class="material-icons-outlined md-24">category</i>&nbsp;&nbsp;{{ page.categories | sort | join: ", " }}
   </span>
-
+  <hr>
+  <small><a href="https://cryptograph.co.nz/terms/" title="Site Terms">site terms</a></small>
 </div>
 
 {% if site.related_posts.size >= 1 %}
@@ -33,5 +34,3 @@ layout: default
   </ul>
 </div>
 {% endif %}
-
-<a href="https://cryptograph.co.nz/terms/" title="Site Terms">Site Terms</a>
