@@ -2,7 +2,7 @@
 title:               Cryptograph Ltd
 tagline:             'educating value'
 description:         'Cryptocurrency Education'
-url:                 https://cryptograph.co.nz
+url:                 https://cryptograph.nz
 baseurl:             /
 paginate:            5
 permalink:           pretty
