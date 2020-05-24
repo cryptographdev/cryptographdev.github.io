@@ -5,7 +5,7 @@ title: About
 
 <p>This site is where Cryptograph Ltd resources are available. If you are looking for our business site, this is not it.</p>
 
-<p>Business site: <a href="https://cyptograph.co.nz">https://cyptograph.co.nz</a></p>
+<p>Business site: <a href="https://cryptograph.co.nz">https://cryptograph.co.nz</a></p>
 
 <h2>Contact</h2>
 
