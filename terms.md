@@ -3,8 +3,6 @@ layout: page
 title: Terms
 ---
 
-<p><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="NZD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="NZD"></div></p>
-
 <h2>Disclaimer</h2>
 
 <p>This site is NOT an investment site and the content on this site should NOT be interpreted as investment advice. These resources are intended as general educational materials for those interested in emerging cryptocurrencies. <span class="highlight-text">Do NOT rely on this information when you make your financial decisions.</span></p>
